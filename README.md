@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+
+
+</head>
+<body>
+  
+  <script>
+   document.write("<h1>Hellow world<h1>")
+    
+    console.log('hellow world')
+  
+  </script>
+  
+
+  
+  <p> this is a reguler text </p>
+  <p> <b> This is a bold text </b> </p>
+  <p> <big> This is a big text </big> </p>
+  <p> <i> This is a italic text </i> </p>
+  <p> <small> This is a small text </small> </p>
+  <p>  This is a <strong>strong</strong> text  </p>
+  <p>  This is a <sub>subcripted</sub> text  </p>
+  <p>  This is a <sup>superscripted</sup> text  </p>
+  <p>  This is an <ins>inserted</ins> text  </p>
+  <p>  This is a <del>deleted</del> text  </p>
+  
+  
+  
+</body>
+</html>
